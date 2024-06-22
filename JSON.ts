@@ -66,8 +66,8 @@
 
 
 let teacher = {
-    name: "Zeeshan",
-    experience: "10",
+    name: "Areeba",
+    experience: "5",
 isTeachear:true,
 language:"Arabic",
 }
